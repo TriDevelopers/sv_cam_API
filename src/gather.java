@@ -25,7 +25,7 @@ public class gather {
         List<infoGathered> infoList = new LinkedList<>();
 
         // This will be the output file
-        File file = new File("C:/Users/ndmt2/Desktop/Cam_API/sv_cam_API/src/output.json"); 
+        File file = new File("output.json"); 
 
         // This is Camera Code that we input
         String CameraCodeInput = JOptionPane.showInputDialog("Camera Code is:");
