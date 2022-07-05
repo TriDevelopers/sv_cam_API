@@ -31,7 +31,7 @@ public class gather {
         String CameraCodeInput = JOptionPane.showInputDialog("Camera Code is:");
 
         // Decode config file
-        String fileName = "C:/Users/ndmt2/Desktop/Cam_API/sv_cam_API/config/config.json";
+        String fileName = "./config/config.json";
         File fis = new File(fileName);
         
         config configFile = objectMapper.readValue(fis, config.class);
