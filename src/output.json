@@ -1,0 +1,17 @@
+[ {
+  "Cam_Code" : "HUTONG_CAM6",
+  "Name" : "Camera06",
+  "Branch_Code" : "gpzqi4c7gmfe",
+  "Branch_Name" : "HuTong Aeon Bình Tân",
+  "Company_Code" : "IUPIOJBHS",
+  "Company_Name" : "Golden Gate",
+  "IsEnable" : true
+}, {
+  "Cam_Code" : "HUTONG_CAM6",
+  "Name" : "Camera05",
+  "Branch_Code" : "mvotv5eebxsz",
+  "Branch_Name" : "Văn phòng HCM",
+  "Company_Code" : "JBQLFGMPD",
+  "Company_Name" : "CÔNG TY SVTECH",
+  "IsEnable" : true
+} ]
