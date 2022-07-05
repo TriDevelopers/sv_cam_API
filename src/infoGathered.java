@@ -8,4 +8,3 @@ public class infoGathered {
 
     final public boolean IsEnable = true; // set it true for now, need work on this later
 }
-
