@@ -4,7 +4,7 @@
             "name": "GetCompanyByCode",
             "server": "113.161.56.137",
             "port": "9091",
-            "version": "v1.0",
+            "version": "base-service",
             "Request_ID": "72obqj0mlwdx5eeud654wfx67ggp3g2h",
             "API_Key": "y6vkztdfoo85itl48c7dx5ecibep5wvp"
         },
@@ -12,7 +12,7 @@
             "name": "GetBranchByCode",
             "server": "113.161.56.137",
             "port": "9091",
-            "version": "v1.0",
+            "version": "base-service",
             "Request_ID": "72obqj0mlwdx5eeud654wfx67ggp3g2h",
             "API_Key": "y6vkztdfoo85itl48c7dx5ecibep5wvp"
         },
@@ -20,7 +20,7 @@
             "name": "GetListCamera",
             "server": "113.161.56.137",
             "port": "9091",
-            "version": "v1.0",
+            "version": "base-service",
             "Request_ID": "72obqj0mlwdx5eeud654wfx67ggp3g2h",
             "API_Key": "y6vkztdfoo85itl48c7dx5ecibep5wvp"
         }
